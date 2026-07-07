@@ -1,0 +1,9 @@
+# Xcode and Build artifacts
+build/
+DerivedData/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/
+.DS_Store
+
+# Release packages
+*.zip
