@@ -1,6 +1,6 @@
 //
-//  MacLaunchApp.swift
-//  MacLaunch
+//  MacDeckApp.swift
+//  MacDeck
 //
 //  Created by Aman Raj on 7/7/26.
 //
@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct MacLaunchApp: App {
+struct MacDeckApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
